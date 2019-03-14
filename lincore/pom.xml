@@ -17,11 +17,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
-        <dependency>
             <groupId>com.lxl</groupId>
             <artifactId>lxl-starter</artifactId>
             <version>1.0.0</version>
